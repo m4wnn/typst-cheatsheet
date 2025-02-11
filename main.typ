@@ -5,5 +5,5 @@
   authors: "Mauricio Vargas-Estrada",
 )
 
-#include "sections/expressions-basics.typ"
-#include "sections/basic-types.typ"
+#include "sections/intro.typ"
+#include "sections/modes.typ"
